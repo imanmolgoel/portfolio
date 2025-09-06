@@ -1,6 +1,4 @@
 import { motion } from "framer-motion";
-import React from "react";
-// import { NavLink } from 'react-router-dom'
 import styled from "styled-components";
 import { Facebook, Github, Twitter, YouTube } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
@@ -39,7 +37,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"#"}
+          href="https://github.com/your-profile"
         >
           <Github
             width={25}
@@ -56,7 +54,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"#"}
+         href="https://github.com/your-profile"
         >
           <Twitter
             width={25}
@@ -73,7 +71,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"#"}
+          href="https://github.com/your-profile"
         >
           <Facebook
             width={25}
@@ -90,7 +88,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"#"}
+          href="https://github.com/your-profile"
         >
           <YouTube
             width={25}
