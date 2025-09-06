@@ -1,0 +1,58 @@
+
+All the required Text for this portfolio
+Fonts
+
+----------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Pacifico&family=Source+Sans+Pro:wght@400;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+----------------------------------------------
+
+
+Skills
+----------------------------------------------
+I love to create design which speaks, Keep it clean, minimal and simple.
+I LIKE TO DESIGN
+Web Design
+Mobile Apps
+TOOLS
+Figma
+
+I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+SKILLS
+Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+
+TOOLS
+VScode, Github, Codepen etc.
+
+----------------------------------------------
+
+About Text
+
+----------------------------------------------
+I'm a Data Scientist located in India. I enjoy exploring data, building predictive models, and uncovering insights that drive decision-making. I'm passionate about applying data science techniques to real-world problems, from machine learning to deep learning and data visualization.
+
+I’m always eager to learn new tools, explore different algorithms, and work on innovative projects that push the boundaries of data analysis. I also share my knowledge through blogs and enjoy reading research papers and books to stay updated.
+
+I believe data tells a story, and it’s all about extracting meaningful patterns from it. You can connect with me via my social links.
+----------------------------------------------
+
+
+Theme
+----------------------------------------------
+    body:"#FCF6F4",
+    text:"#000000",
+    fontFamily:"'Source Sans Pro', sans-serif",
+    bodyRgba : "252, 246, 244",
+    textRgba:"0,0,0",
+
+
+----------------------------------------------
+
+
+
+
+
+
